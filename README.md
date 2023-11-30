@@ -22,4 +22,6 @@ The specific experiment involves contrasting the performance of the three BERT p
 
 **Group Member: Kaichuang Yang, Xinyan Zhao, Yuan Wang, Yuxin Gong**
 
+**Supervisor: *Prof.* Yu Zheng(SWUFE) & *Dr.* Yongxin Yang(QMUL)**
+
 **Example of Report Website** [link to pdf](https://github.com/KaichuangYang/SWUFE-BERT-Extract-Summary/blob/main/summary-report-0818-1.pdf)
