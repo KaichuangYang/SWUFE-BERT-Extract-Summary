@@ -1,0 +1,3 @@
+本章利用训练好的LSTM和TransformerEncoder模型，选取未标记的时事短讯，对其进行自动式摘要抽取。
+具体而言，首先将未标记的短讯分别由三种BERT模型生成word emmbedding。其次将短讯的word embedding分别由训练好的LSTM和TransformerEncoder模型进行预测，获取短讯内每个字符是否被作为摘要内容抽取的0-1标签。最后，使用标记好的新闻短讯生成抽取是摘要。
+抽取摘要的结果展示如下:

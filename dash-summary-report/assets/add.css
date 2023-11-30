@@ -1,0 +1,58 @@
+.TransformerEncoder {
+    max-height: 250px;
+    max-width: 170px;
+  }
+  
+  .MultiHead {
+    max-height: 260px;
+    max-width: 550px;
+  }
+  
+  
+  .PosEnco {
+    max-width: 900px;
+    max-height: 30px;
+  }
+  
+  .AttenSoftmax {
+    max-width: 550px;
+    max-height: 50px;
+    background: #f0e8e8;
+  }
+  
+  
+  .minipara {
+    font-family:"宋体";  
+    font-size:12px;
+    line-height: 180%;
+    text-indent: 2em;
+  }
+  
+  .red-author1 {
+    position: relative;
+    height: 10%;
+    padding: 5px;
+    text-indent: 2em;
+    margin-bottom: 5px;
+    border-radius: 1px;
+    font-family:"宋体";  
+    font-size:13px;
+    line-height: 250%;
+    background: #98151b;
+    color: #ffffff;
+  }
+  
+  
+  .author1 {
+    position: relative;
+    height: 10%;
+    padding: 5px;
+    text-indent: 2em;
+    margin-bottom: 5px;
+    border-radius: 1px;
+    font-family:"宋体";  
+    font-size:12px;
+    line-height: 250%;
+    background: #f0e8e8;
+    color: #000000;
+  }
