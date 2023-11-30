@@ -1,6 +1,6 @@
 # SWUFE-BERT-Extract-Summary
 
-<img src="logo.png" width=45%>
+<img src="logo.png" width=55%>
 
 ##  1.SWUFE FIC
 
@@ -10,7 +10,7 @@ The Southwestern University of Finance and Economics Fintech Innovation Lab (FIC
 
 ## 2.Project Introduction
 
-<img src="SWUFE_BERT.png" width=45%>
+<img src="SWUFE_BERT.png" width=55%>
 
 The SWUFE-BERT, a large-scale financial language model, will undergo pre-training and fine-tuning in a corpus exceeding 200 gigabytes, comprising 17 million financial news articles and institutional research reports. The objective is to construct a financial domain dictionary, offering an end-to-end natural language processing framework tailored for financial scenarios. It will be open-sourced to assist financial academic research and industry applications, addressing gaps in this field.
 
